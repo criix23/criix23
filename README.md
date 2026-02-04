@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
-<h3 align="center">A passionate frontend developer from Italy/Germany</h3>
+<h3 align="center">A passionate full-stack developer from Italy/Germany</h3>
 
 - 🔭 I’m currently working on [Persona Bot](https://personabot.onrender.com)
 
