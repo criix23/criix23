@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **carrascocristian098@gmail.com**
 
-- 👨‍💻 My portfolio website: **[https://carrascocristian.netlify.app/](https://carrascocristian.netlify.app/)**
+- 👨‍💻 My portfolio website: **[https://carrascocristian.com](https://carrascocristian.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
