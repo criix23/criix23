@@ -1,8 +1,8 @@
 # Hi, I'm Cristian 👾
 
-### A passionate developer
+### Stack-agnostic by curiosity, full-stack by principle. I master new systems to deploy them into prod.
 
-- 🔭 I'm currently working on [MovieDB](https://moviedb.cloud)
+- 🎞️ I'm currently working on [MovieDB](https://moviedb.cloud)
 
 - 📫 How to reach me: **carrascocristian098@gmail.com**
 
